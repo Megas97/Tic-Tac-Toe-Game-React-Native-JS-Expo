@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-React-Native-JS-Expo
+# Tic-Tac-Toe-Game-React-Native-JS-Expo
 Video: 
 
 Zip: 
