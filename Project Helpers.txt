@@ -1,0 +1,18 @@
+React Native Beginners Tutorial - Tic-Tac-Toe (Part 1): https://www.youtube.com/watch?v=Us3BRdTw6wI
+React Native Beginners Tutorial - Tic-Tac-Toe (Part 2): https://www.youtube.com/watch?v=auCeYcuGO44
+React Native Beginners Tutorial - Tic-Tac-Toe GitHub Repository: https://github.com/captainIN/tic-tac-toe-rn
+React.js Tic-Tac-Toe Tutorial: https://bg.reactjs.org/tutorial/tutorial.html
+Update Multiple Values With useState: https://stackoverflow.com/questions/59813926/usestate-to-update-multiple-values-in-react
+React Native <Pressable>: https://reactnative.dev/docs/pressable
+Convert RGB To HEX Colors: https://www.rgbtohex.net
+Combining Multiple Styles In React Native: https://laska.io/blog/combining-multiple-styles-in-react-native/
+Center Content In React Native: https://www.codegrepper.com/code-examples/javascript/center+content+in+react+native
+'Warning: Each child in a list should have a unique "key" prop' Error Fix: https://sentry.io/answers/unique-key-prop/
+Reverse An Array In React: https://stackoverflow.com/questions/49796794/how-to-reverse-an-array-in-react/49796808
+Name Of Key In React.js For Unselectable CSS: https://stackoverflow.com/questions/31998753/name-of-key-in-react-js-for-unselectable-css
+Navigation In React Native: https://www.youtube.com/watch?v=9K7JCQbOHVA
+React Native Navigation: https://reactnavigation.org/docs/getting-started
+Center Title Of 'react-navigation' Header: https://stackoverflow.com/questions/43326705/how-can-we-center-title-of-react-navigation-header
+Change React Native Navigation Background Color: https://stackoverflow.com/questions/48253357/react-navigation-default-background-color
+Options For React Native Navigation Screens: https://reactnavigation.org/docs/screen-options/
+React Native Center Text Horizontally: https://stackoverflow.com/questions/37571418/reactnative-how-to-center-text
