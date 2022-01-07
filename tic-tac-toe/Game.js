@@ -24,7 +24,7 @@ export default function Game() {
     ],
   });
   const [stepNumber, setStepNumber] = useState(0);
-  const rowCol = {
+  const colRow = {
       0: '1, 1',
       1: '2, 1',
       2: '3, 1',
@@ -158,7 +158,7 @@ export default function Game() {
   let historyButtons = [];
   for (let i = 0; i < history.squares.length; i++) {
     if (history.squares[i] !== null) {
-      let title = "Go to move #" + (i+1) + ' (' + rowCol[history.currentIndex[i]] + ')';
+      let title = "Go to move #" + (i+1) + ' (' + colRow[history.currentIndex[i]] + ')';
       historyButtons[i] = <Pressable key={'history-' + i} onPress={() => jumpTo(i)} style={styles.button}><Text style={[styles.buttonTitle, {fontWeight: currentMove === null ? 'normal' : currentMove === i ? 'bold' : 'normal'}]}>{title}</Text></Pressable>;
     }
   }
